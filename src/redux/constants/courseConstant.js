@@ -1,0 +1,3 @@
+export const FETCH_COURSE_LIST = "FETCH_COURSE_LIST";
+export const FETCH_COURSE_DETAIL = "FETCH_COURSE_DETAIL";
+export const SET_TOKEN = "SET_TOKEN";
